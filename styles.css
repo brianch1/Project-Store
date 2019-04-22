@@ -1,0 +1,33 @@
+.container {
+    display: flex;
+    justify-content: center;
+    background: orange;
+    padding: 40px;
+    border: 30px solid black;
+}
+.container1 {
+    display: flex;
+    justify-content: space-between;
+    background: orange;
+    padding: 1px;
+    border: 5px ;
+}
+.container2 {
+    display: flex;
+    justify-content: space-between;  
+    padding: 40px;
+    align-items: center;
+}
+.container3 {
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+}
+.container4 {
+    background: orange;
+    height: 60px;
+    border: 5px solid black;
+}
+input{
+    height: 15px;
+    }
